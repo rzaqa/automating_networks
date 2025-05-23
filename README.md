@@ -1,4 +1,4 @@
-# automating_networks
+# automating_networks - HAVEN'T FINISHED COURSE. A BIT BORING AND REALLY USEFUL
 
 # Create a new venv and activate it
 $ python3 -m venv auto_venv
@@ -6,3 +6,6 @@ $ source auto_venv/bin/activate
 
 # Install project dependencies
 $ pip install -r requirements.txt
+
+
+
